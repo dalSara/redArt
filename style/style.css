@@ -1,0 +1,117 @@
+body, html{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+a:link {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #FFFFFF;
+}
+
+a:hover {
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+#main{
+    position: absolute;
+
+}
+
+#sideBar{
+    position: relative;
+    float: left;
+    width: 20%;
+    text-align: center;
+    font-size: 1.5em;
+    width: auto;
+    height: 100%;
+
+}
+
+.logo{
+    background-color: red;
+    height: 100px;
+    width: 200px;
+}
+
+#header{
+    position: relative;
+    float: left;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: inherit;
+}
+li {
+    float: left;
+    display: inline-block;
+    margin-right: 1px;
+    }
+
+li a {
+    display:block;
+    min-width:140px;
+    max-width: 250px;
+    height: 50px;
+    text-align: center;
+}
+
+/************Style MAD***************/
+
+
+#MadLogo{
+    text-align: center;
+}
+
+.madRedLogo{
+    height: 100px;
+}
+
+/*
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.headerLinks{
+    margin: 0 auto;
+    display: inline;
+
+}
+
+
+        float: left;
+    padding-left: 3em;
+    text-align: center;
+
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+
+
+
+
+*/
