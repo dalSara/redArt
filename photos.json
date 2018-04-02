@@ -1,0 +1,82 @@
+[
+    {
+        "category": "costumesAndHats",
+        "photo" : [
+            {
+                "title": "I am a dressmaker with a degree in Millinery and Special FX.",
+                "text1Top":"",
+                "text2Top":"",
+                "text3Top":"",
+                "imge1": "src/costumesAndHats/fran1straa.jpg",
+                "imge2": "src/costumesAndHats/fran4haarfilt.jpg",
+                "imge3": "",
+                "image4":"",
+                "addedDate": "020418",
+                "text1Below":"Currently I work freelance as costume maker and designer for privat customers and theater.",
+                "textBelow2":"If you're interested in a collaboration, please feel free to contact me and ask for a detailed CV or to watch my works.",
+                "Text3Below":"",
+                "LinkText":""
+            },
+           {
+                "title": "I am a dressmaker with a degree in Millinery and Special FX.",
+                "text1Top":"",
+                "text2Top":"",
+                "text3Top":"",
+                "imge1": "src/costumesAndHats/fran1straa.jpg",
+                "imge2": "src/costumesAndHats/fran4haarfilt.jpg",
+                "imge3": "",
+                "image4":"",
+                "addedDate": "020418",
+                "text1Below":"Currently I work freelance as costume maker and designer for privat customers and theater.",
+                "textBelow2":"If you're interested in a collaboration, please feel free to contact me and ask for a detailed CV or to watch my works.",
+                "Text3Below":"",
+                "LinkText":""
+
+           }
+        ]
+    },
+
+    {
+        "category" : "Mad",
+        "photo" : [
+            {
+                "title": "I am a dressmaker with a degree in Millinery and Special FX.",
+                "text1Top":"",
+                "text2Top":"",
+                "text3Top":"",
+                "imge1": "src/costumesAndHats/fran1straa.jpg",
+                "imge2": "src/costumesAndHats/fran4haarfilt.jpg",
+                "imge3": "",
+                "image4":"",
+                "addedDate": "020418",
+                "text1Below":"Currently I work freelance as costume maker and designer for privat customers and theater.",
+                "textBelow2":"If you're interested in a collaboration, please feel free to contact me and ask for a detailed CV or to watch my works.",
+                "Text3Below":"",
+                "LinkText":""
+            }
+
+        ]
+    },
+    {
+        "date": "24.03.17",
+        "events" : [
+            {
+                "title": "I am a dressmaker with a degree in Millinery and Special FX.",
+                "text1Top":"",
+                "text2Top":"",
+                "text3Top":"",
+                "imge1": "src/costumesAndHats/fran1straa.jpg",
+                "imge2": "src/costumesAndHats/fran4haarfilt.jpg",
+                "imge3": "",
+                "image4":"",
+                "addedDate": "020418",
+                "text1Below":"Currently I work freelance as costume maker and designer for privat customers and theater.",
+                "textBelow2":"If you're interested in a collaboration, please feel free to contact me and ask for a detailed CV or to watch my works.",
+                "Text3Below":"",
+                "LinkText":""
+            }
+
+        ]
+
+    }
+]
